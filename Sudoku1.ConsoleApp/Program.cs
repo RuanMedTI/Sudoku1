@@ -52,7 +52,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -68,7 +68,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -84,7 +84,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -100,7 +100,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -116,7 +116,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -132,7 +132,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -148,7 +148,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -164,7 +164,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -180,7 +180,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -196,7 +196,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -212,7 +212,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -228,7 +228,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -244,7 +244,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -260,7 +260,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -276,7 +276,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -292,7 +292,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -308,7 +308,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -324,7 +324,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -340,7 +340,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -356,7 +356,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -372,7 +372,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -388,7 +388,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -404,7 +404,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -420,7 +420,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -436,7 +436,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -452,7 +452,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -468,7 +468,7 @@ namespace Sudoku1.ConsoleApp
                     {
                         //se tiver numero repetidos não é sudoku!
                         repetidos = true;
-                        System.Console.WriteLine("NÃO!");
+                        Console.WriteLine("NÃO!");
                         Console.ReadLine();
                     }
                 }
@@ -477,7 +477,7 @@ namespace Sudoku1.ConsoleApp
             if (repetidos == false)
             {
                 //se não tiver repetidos, ele é sudoku!
-                System.Console.WriteLine("SIM!");
+                Console.WriteLine("SIM!");
                 Console.ReadLine();
             }
         }
